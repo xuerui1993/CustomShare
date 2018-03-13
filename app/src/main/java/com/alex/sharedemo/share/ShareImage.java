@@ -1,14 +1,5 @@
 package com.alex.sharedemo.share;
 
-/*
- *  @项目名：  DIAgent 
- *  @包名：    com.dolphin.insuranceAgent.share
- *  @文件名:   ShareImage
- *  @创建者:   xuerui
- *  @创建时间:  2017/12/25 11:12
- *  @描述：    分享图片类型
- */
-
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
 

@@ -1,8 +1,6 @@
 package com.alex.sharedemo.share;
 
 /*
- *  @项目名：  DIAgent 
- *  @包名：    com.dolphin.insuranceAgent.utils
  *  @文件名:   ShareAPI
  *  @创建者:   xuerui
  *  @创建时间:  2017/12/25 10:33

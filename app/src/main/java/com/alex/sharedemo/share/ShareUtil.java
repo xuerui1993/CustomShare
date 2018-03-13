@@ -8,8 +8,6 @@ import android.net.Uri;
 import java.io.File;
 import java.util.List;
 /*
- *  @项目名：  DIAgent
- *  @包名：    com.dolphin.insuranceAgent.utils
  *  @文件名:   ShareUtil
  *  @创建者:   xuerui
  *  @创建时间:  2017/10/16 17:55

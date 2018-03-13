@@ -41,7 +41,7 @@ public class WXEntryActivity extends Activity implements IWXAPIEventHandler {
 		if (resp instanceof SendAuth.Resp) {
 			//微信授权登录
 			SendAuth.Resp res = (SendAuth.Resp) resp;
-			if ("if_consultant".equals(res.state)) {
+			if ("自己设置".equals(res.state)) {
 				String code = res.code;
 				//TODO:获取微信授权信息
 			}

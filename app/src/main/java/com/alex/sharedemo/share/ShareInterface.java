@@ -1,11 +1,8 @@
 package com.alex.sharedemo.share;
 
 /*
- *  @项目名：  DIAgent 
- *  @包名：    com.dolphin.insuranceAgent.share
  *  @文件名:   ShareInterface
  *  @创建者:   xuerui
- *  @创建时间:  2018/3/13 11:35
  *  @描述：    分享回调接口
  */
 
